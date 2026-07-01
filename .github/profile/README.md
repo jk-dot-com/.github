@@ -6,6 +6,8 @@ This is the home of the **jk-dot-com** organization on GitHub. We build thoughtf
 
 We focus on creating elegant solutions across web, design systems, and developer tools. Our projects emphasize quality, accessibility, and user experience.
 
+I'm also the founder of **[Bloqr](https://github.com/bloqr-dev)**, an AI-powered development platform. Check out the [Bloqr organization](https://github.com/bloqr-dev) for more information.
+
 ## 📦 Our Projects
 
 ### Core Products
@@ -14,6 +16,10 @@ We focus on creating elegant solutions across web, design systems, and developer
 
 ### Infrastructure
 - **[.github](https://github.com/jk-dot-com/.github)** — Organization-wide configurations and shared workflows
+
+### Bloqr
+- **[Bloqr](https://github.com/bloqr-dev)** — AI-powered development platform
+- **[Bloqr Org](https://github.com/bloqr-dev)** — Explore all Bloqr projects and repositories
 
 ## 🔧 Tech Stack
 
